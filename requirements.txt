@@ -1,0 +1,10 @@
+langchain-groq
+langgraph
+langchain-core
+langchain
+langchain-experimental
+resend
+exa-py
+supabase
+python-dotenv
+modal
